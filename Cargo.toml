@@ -1,0 +1,10 @@
+[package]
+name = "process_midi"
+version = "0.0.0"
+authors = ["Joseph Gerardot <indyJAG@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+ghakuf = "0.5.3"
+clap = "2.33.0"
+
