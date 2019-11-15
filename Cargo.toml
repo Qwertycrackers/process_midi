@@ -8,3 +8,9 @@ edition = "2018"
 ghakuf = "0.5.3"
 clap = "2.33.0"
 
+[debug]
+panic = "abort"
+
+[release]
+panic = "abort"
+
