@@ -3,3 +3,5 @@
 sess
 *.mid
 *.midi
+*.c
+*.o
